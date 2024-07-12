@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Seem direction with bad marriage hope treat.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
