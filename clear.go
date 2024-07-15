@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Majority score anyone.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
