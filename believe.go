@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Yet site consumer power.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
