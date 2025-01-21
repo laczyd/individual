@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Value choice agree quickly.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
